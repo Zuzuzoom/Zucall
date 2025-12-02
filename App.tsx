@@ -151,7 +151,7 @@ export default function App() {
           <div className="bg-indigo-600 p-2 rounded-lg">
              <Phone className="w-6 h-6 text-white" />
           </div>
-          <span className="hidden lg:block font-bold text-xl text-slate-900">Backup</span>
+          <span className="hidden lg:block font-bold text-xl text-slate-900">Zucall</span>
         </div>
 
         <nav className="flex-1 space-y-2 px-2">
