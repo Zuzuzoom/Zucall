@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ColdCall Backup",
+  "description": "Your AI-powered sales resistance training partner and real-time script assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
